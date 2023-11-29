@@ -3,13 +3,13 @@ For the ETL mini project, you will work with a partner to practice building an E
 
 For this project we:
 
--Created the Category and Subcategory DataFrames
+- Created the Category and Subcategory DataFrames
 
--Created the Campaign DataFrame
+- Created the Campaign DataFrame
 
--Created the Contacts DataFrame
+- Created the Contacts DataFrame
 
--Created the Crowdfunding Database with all for previous dataframes.
+- Created the Crowdfunding Database with all for previous dataframes.
 
 # Table of Contents:
 - [Introduction](#introduction)
