@@ -32,5 +32,5 @@ Support with code from ChatGPT at https://chat.openai.com/c/3c7c4a1c-3385-4145-8
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/35d9c63f-c207-47de-9504-b650645f616b)
 
 # Authors:<a name="authors"></a>
-ac2barreto
-Arezootvk
+- [ac2barreto]
+- [Arezootvk]
