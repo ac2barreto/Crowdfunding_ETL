@@ -19,16 +19,16 @@ supporting documentation from UT Austin The Data Analytics and Visualization Boo
 Support with code from ChatGPT at https://chat.openai.com/c/3c7c4a1c-3385-4145-871f-54a197f1bc6f
 
 # SQL Tables Visuals:<a name="SQLTablesVisuals"></a>
-  # Contacts:
+  ## Contacts:
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/f49ba46b-4b42-4895-93fa-1bb1a2749205)
 
-  # Category:
+  ## Category:
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/73f672cd-523b-435b-acf6-8515246590a6)
 
-  # Subcategory:
+  ## Subcategory:
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/129e2c91-5d6b-455b-9a6d-58cc7d57d5f6)
 
-  # Campaign:
+  ## Campaign:
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/35d9c63f-c207-47de-9504-b650645f616b)
 
 # Authors:<a name="authors"></a>
