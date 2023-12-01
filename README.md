@@ -39,6 +39,9 @@ Support with code from ChatGPT at https://chat.openai.com/c/3c7c4a1c-3385-4145-8
   ## Campaign:
   ![image](https://github.com/ac2barreto/Crowdfunding_ETL/assets/138399086/35d9c63f-c207-47de-9504-b650645f616b)
 
+  ## ERD:
+  ![Screenshot 2023-11-28 at 10 23 44 PM](https://github.com/ac2barreto/Crowdfunding_ETL/assets/139180717/170843c0-f3ad-49d7-8b6e-0d2d6ef48c85)
+
 # Authors:<a name="authors"></a>
 - ac2barreto
   
